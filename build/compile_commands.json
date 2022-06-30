@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dawid/cpp/DesignPatterns/build",
+  "command": "/usr/bin/g++-7   -I/home/dawid/cpp/DesignPatterns/Expressions -I/home/dawid/cpp/DesignPatterns/Visitors  -g   -std=gnu++1z -o CMakeFiles/Visitor.dir/main.cpp.o -c /home/dawid/cpp/DesignPatterns/main.cpp",
+  "file": "/home/dawid/cpp/DesignPatterns/main.cpp"
+}
+]
